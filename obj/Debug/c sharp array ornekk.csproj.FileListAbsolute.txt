@@ -1,0 +1,8 @@
+D:\1 PROGRAMmING\C sharp\c sharp array ornekk\bin\Debug\c sharp array ornekk.exe.config
+D:\1 PROGRAMmING\C sharp\c sharp array ornekk\bin\Debug\c sharp array ornekk.exe
+D:\1 PROGRAMmING\C sharp\c sharp array ornekk\bin\Debug\c sharp array ornekk.pdb
+D:\1 PROGRAMmING\C sharp\c sharp array ornekk\obj\Debug\c sharp array ornekk.csproj.AssemblyReference.cache
+D:\1 PROGRAMmING\C sharp\c sharp array ornekk\obj\Debug\c sharp array ornekk.csproj.SuggestedBindingRedirects.cache
+D:\1 PROGRAMmING\C sharp\c sharp array ornekk\obj\Debug\c sharp array ornekk.csproj.CoreCompileInputs.cache
+D:\1 PROGRAMmING\C sharp\c sharp array ornekk\obj\Debug\c sharp array ornekk.exe
+D:\1 PROGRAMmING\C sharp\c sharp array ornekk\obj\Debug\c sharp array ornekk.pdb
